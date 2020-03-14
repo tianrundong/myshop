@@ -5,5 +5,9 @@
     <file url="file://$PROJECT_DIR$/my-shop-domain/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/my-shop-web-admin/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/my-shop-web-admin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-web-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-web-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-web-ui/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-web-ui/src/main/resources" charset="UTF-8" />
   </component>
 </project>

@@ -16,5 +16,6 @@
         <module>my-shop-web-admin</module>
         <module>my-shop-web-ui</module>
         <module>my-shop-web-api</module>
+        <module>my-shop-external</module>
     </modules>
 </project>
