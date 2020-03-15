@@ -1,0 +1,15 @@
+com\donggua\my\shop\commons\utils\MapperUtils.class
+com\donggua\my\shop\commons\utils\MapperUtils$1.class
+com\donggua\my\shop\commons\dto\BaseResult.class
+com\donggua\my\shop\commons\dto\PageInfo.class
+com\donggua\my\shop\commons\validator\BeanValidator.class
+com\donggua\my\shop\commons\utils\EmailSendUtils.class
+com\donggua\my\shop\commons\persistence\BaseDao.class
+com\donggua\my\shop\commons\persistence\BaseTreeDao.class
+com\donggua\my\shop\commons\persistence\BaseTreeEntity.class
+com\donggua\my\shop\commons\utils\HttpClientUtils.class
+com\donggua\my\shop\commons\persistence\BaseService.class
+com\donggua\my\shop\commons\persistence\BaseEntity.class
+com\donggua\my\shop\commons\utils\RegexpUtils.class
+com\donggua\my\shop\commons\constant\ConstantUtils.class
+com\donggua\my\shop\commons\persistence\BaseTreeService.class
