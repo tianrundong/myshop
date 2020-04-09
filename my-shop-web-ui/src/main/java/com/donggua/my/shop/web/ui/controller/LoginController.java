@@ -61,7 +61,7 @@ public class LoginController {
 
 		// 登录成功
 		else {
-			emailSendUtils.send("用户登录", String.format("用户 【%s】 登录 MyShop", user.getUsername()), "lusifer@yeah.net");
+			emailSendUtils.send("用户登录", String.format("用户 【%s】 登录 MyShop", user.getUsername()), "1004028919@qq.com","2387082008@qq.com");
 			// 将会员信息放入 Session
 			request.getSession().setAttribute(SystemConstants.SESSION_USER_KEY, user);
 			return "redirect:/index";

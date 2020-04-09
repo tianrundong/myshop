@@ -10,7 +10,7 @@ import java.util.Map;
  * @version 1.0.0
  * @date 2020/3/12 23:59
  **/
-public interface BaseDao<T> {
+public interface BaseDao<T extends BaseEntity> {
 	/**
 	 * 查询全部数据
 	 *
